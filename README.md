@@ -57,4 +57,4 @@ Repo: **`100-days-of-python`**
 
 ## 🤝 Connect
 - GitHub: https://github.com/zx784  
-(Add your LinkedIn/portfolio link here)
+- LinkedIn: https://www.linkedin.com/in/amro-alsharafi-a87a6b321/
