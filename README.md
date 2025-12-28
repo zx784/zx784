@@ -1,60 +1,166 @@
-# Hi, I'm Amro Alsharafi 👋
+# 👋 Hi, I’m **Amro Alsharafi**
 
-I'm a **Data Science / Software Engineering** student who builds practical projects in **Python**, **Machine Learning**, and **Web Development**.  
-I care about: **clean code, reproducible results, and turning ideas into working systems**.
+### **Software Engineer | Data Scientist | Python Developer | Full-Stack Builder**
 
----
+I am a **Computer Science final year specialized in Data Science**, with a strong engineering mindset and a passion for building **scalable, real-world systems**. I combine **software engineering**, **data science**, and **design thinking** to deliver solutions that are clean, efficient, and impactful.
 
-## 🚀 Featured Work (Start Here)
-Here are the projects I recommend checking first:
-
-- **100 Days of Python (100 Projects)** → `100-days-of-python`  
-  A structured collection of 100 Python projects (beginner → advanced), covering automation, web, APIs, scraping, data science, and GUI apps.
-- **Cybersecurity Risk Assessment (ML)** → `Predictive-Modeling-for-Cybersecurity-Risk-Assessment-and-Prioritization`  
-  ML classifiers + feature engineering for vulnerability prioritization (CVE/CWE mapping).
-- **E-commerce Customer Prediction / Analytics (ML)** → `E-commerce-Customer-spending-and-satisfaction-level-prediction`
-- **Social Media Engagement (Supervised ML)** → `Social-Media-Engagement-Analysis`
-- **Portfolio Website** → `amro-shiek-portfolio`
-- **Mobile / App Project** → `eCommerce-Mobile-App` (Flutter/Dart)
-
-*(Pinned projects are the best way to show recruiters what matters most.)*
+I learn **fast**, adapt **quickly**, and enjoy mastering new technologies in a short time. I focus deeply, build with intention, and continuously refine my craft.
 
 ---
 
-## 🧠 Skills & Tools
-**Languages:** Python, JavaScript/TypeScript, SQL  
-**ML / Data:** scikit-learn, pandas, NumPy, matplotlib, seaborn, Plotly  
-**Web:** Flask, REST APIs, HTML/CSS, Bootstrap, Next.js/React  
-**Automation / Scraping:** BeautifulSoup, Selenium  
-**Tools:** Git/GitHub, Jupyter/Colab, VS Code
+## 🚀 What I Do
+
+* **Software Engineering** — building reliable, maintainable systems
+* **Data Science** — turning data into insights and intelligent solutions
+* **Python Development** — automation, analytics, backend systems
+* **Full-Stack Development** — from backend logic to polished UIs
+* **Design & UX** — blending engineering with visual clarity
+
+I don’t jump between trends — I **learn deeply**, **build consistently**, and **deliver professionally**.
 
 ---
 
-## 🏆 100 Days of Code (Python Bootcamp)
-I completed **100 projects** as part of the Udemy course:  
-**“100 Days of Code: The Complete Python Pro Bootcamp”**  
-Most project ideas come from the course structure, and I implemented them to build strong hands-on fundamentals.
+## 🐍 100 Days of Python — Major Milestone
 
-✅ Topics covered include:
-- Python foundations, OOP, error handling
-- Automation + scripting
-- APIs + authentication
-- Web scraping (BeautifulSoup, Selenium)
-- GUI apps (Tkinter)
-- Data science workflows (pandas, NumPy, visualisation)
-- Flask web apps, databases, deployment basics
+One of my biggest achievements:
 
-Repo: **`100-days-of-python`**
+> ✅ **Completed the “100 Days of Code: The Complete Python Pro Bootcamp”**
+> ✅ **Built 100+ hands-on Python projects**
+> ✅ Covered **Beginner → Advanced → Professional** levels
 
----
+This journey strengthened my fundamentals across:
 
-## 📌 What I’m working on now
-- Building more portfolio-grade projects (ML + Web Apps)
-- Improving documentation + code quality across repositories
-- Preparing for internships / junior roles
+* Programming logic & problem-solving
+* Object-Oriented Programming
+* Automation & scripting
+* Data analysis & visualization
+* APIs, web scraping & backend development
+* Real-world capstone projects
+
+📌 **All projects are organized in a single repository**, demonstrating consistency, discipline, and long-term commitment.
 
 ---
 
-## 🤝 Connect
-- GitHub: https://github.com/zx784  
-- LinkedIn: https://www.linkedin.com/in/amro-alsharafi-a87a6b321/
+## 📊 Data Science Focus
+
+As a **Data Science specialist**, my interests include:
+
+* Data analysis & visualization
+* Machine learning fundamentals
+* Statistical thinking
+* Feature engineering & model evaluation
+
+🔍 I am currently **learning Deep Learning** and **Data Engineering**, focusing on:
+
+* Scalable data pipelines
+* Model deployment readiness
+* Production-level data workflows
+
+---
+
+## 🕌 Current Flagship Project — **DARTANSIQ**
+
+### **DARTANSIQ** — Smart Masjid Management Platform
+
+I am actively building **DARTANSIQ**, a comprehensive application designed to modernize mosque operations:
+
+**Key goals:**
+
+* Centralized mosque management
+* Donations & financial transparency
+* Community engagement tools
+* Scalable, secure backend architecture
+
+This project reflects my ability to:
+
+* Design real-world systems
+* Think in terms of users & stakeholders
+* Build for **impact**, not just code
+
+---
+
+## 🎨 Design Skills (Intermediate)
+
+I also bring a **design background**, which helps me build better products:
+
+* **Adobe Photoshop** — UI assets, visuals, branding
+* **Adobe Illustrator** — icons, vector graphics, layouts
+
+This allows me to collaborate effectively between **engineering and design**, improving usability and aesthetics.
+
+---
+
+## 🧰 Technologies & Tools
+
+**Languages & Core**
+
+* Python, SQL, JavaScript
+* Object-Oriented Programming
+
+**Data & ML**
+
+* Pandas, NumPy
+* Matplotlib, Seaborn, Plotly
+* Scikit-learn
+
+**Backend & Web**
+
+* Flask
+* Django
+* REST APIs
+* Databases (SQLite, PostgreSQL)
+
+**Automation & Scraping**
+
+* Beautiful Soup
+* Selenium
+
+**Tools**
+
+* Git & GitHub
+* Jupyter Notebook
+* Google Colab
+
+**Design**
+
+* Photoshop
+* Illustrator
+
+---
+
+## 🧠 How I Work
+
+* 🔹 Learn fast, apply faster
+* 🔹 Build clean, readable, production-ready code
+* 🔹 Focus on fundamentals before frameworks
+* 🔹 Always improving — technically and professionally
+
+I take pride in **clarity**, **discipline**, and **long-term growth**.
+
+---
+
+## 🎯 Career Vision
+
+I aim to grow as a **high-impact Software Engineer & Data Scientist**, contributing to teams that value:
+
+* Engineering excellence
+* Thoughtful system design
+* Continuous learning
+* Real-world problem solving
+
+I am especially motivated by environments like **Google, Microsoft, Amazon**, or any organization that values **quality, creativity, and responsibility**.
+
+---
+
+## 📫 Let’s Connect
+
+* 💼 GitHub: [https://github.com/zx784](https://github.com/zx784)
+* 💬 Open to collaboration, learning, and meaningful opportunities
+
+---
+
+⭐ If you like my work, feel free to explore my repositories and follow my journey.
+
+---
+
+
