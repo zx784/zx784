@@ -1,8 +1,8 @@
 # 👋 Hi, I’m **Amro Alsharafi**
 
-### **Software Engineer | Data Scientist | Python Developer | Full-Stack Builder**
+### **Senior Backend & AI Engineer | Python Developer | Full-Stack Builder**
 
-I am a **Computer Science final year specialized in Data Science**, with a strong engineering mindset and a passion for building **scalable, real-world systems**. I combine **software engineering**, **data science**, and **design thinking** to deliver solutions that are clean, efficient, and impactful.
+I am a **Senior Backend and AI Engineer** with a strong engineering mindset and a passion for building **scalable, real-world systems**. I combine **backend engineering**, **AI development**, **data science**, and **design thinking** to deliver solutions that are clean, efficient, and impactful.
 
 I learn **fast**, adapt **quickly**, and enjoy mastering new technologies in a short time. I focus deeply, build with intention, and continuously refine my craft.
 
